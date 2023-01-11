@@ -1,7 +1,5 @@
 # Analysis of Medicare Preventive Visit Pricing for 2022 
 
- 2022 Medicare preventive medicine visit pricing for new patients
-
 ## Overview ##
 In this project I analyzed Medicare pricing data for preventive medicine visits for new patients in 2022. I was interested in how this pricing would vary across states given Medicare adjusts its fee schedule based on practice costs in a geographic area. 
 
