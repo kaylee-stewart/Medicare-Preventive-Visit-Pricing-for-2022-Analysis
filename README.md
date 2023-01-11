@@ -3,7 +3,7 @@
 ## Overview ##
 In this project I analyzed Medicare pricing data for preventive medicine visits for new patients in 2022. I was interested in how this pricing would vary across states given Medicare adjusts its fee schedule based on practice costs in a geographic area. 
 
-I began by cleaning the data which included narrowing the data to just U.S. states, reformatting the zip codes, and merging a file that mapped zip codes to states. I then conducted descriptive statistics by state for new patient preventive visit pricing. After cleaning and analyzing the data, I visualized the data in Tableau.
+I began by cleaning the data which included narrowing the data to just U.S. states, reformatting the zip codes, and merging a file that mapped zip codes to states. I then conducted descriptive statistics by state for new patient preventive visit pricing. After cleaning and analyzing the data, I visualized the data in a Tableau dashboard.
 
 ![Screenshot](Screenshot.png)
 
