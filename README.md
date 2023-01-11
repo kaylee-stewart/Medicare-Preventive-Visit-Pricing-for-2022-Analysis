@@ -9,7 +9,7 @@ The link to the visualization of state data in Tableau Public is below:
 https://public.tableau.com/shared/4XK6X47N3?:display_count=n&:origin=viz_share_link
 
 Data Sources
-*Medicare preventive medicine visit pricing data for 2022 was retrieved from: https://data.cms.gov/provider-data/dataset/0330-b6e0
-*Data used to map Medicare provider zip codes to states was retrieved from: https://www.cms.gov/medicare/medicare-fee-for-service-payment/feeschedulegeninfo (2022 End of Year Zip Code File)
+* Medicare preventive medicine visit pricing data for 2022 was retrieved from: https://data.cms.gov/provider-data/dataset/0330-b6e0
+* Data used to map Medicare provider zip codes to states was retrieved from: https://www.cms.gov/medicare/medicare-fee-for-service-payment/feeschedulegeninfo (2022 End of Year Zip Code File)
 
 
