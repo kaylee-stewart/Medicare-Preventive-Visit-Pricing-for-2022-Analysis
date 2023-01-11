@@ -7,7 +7,7 @@ I began by cleaning the data which included narrowing the data to just U.S. stat
 
 ![Screenshot](Screenshot.png)
 
-The link to the visualization of state data in Tableau Public is below:
+The link to the interactive visualization of state data in Tableau Public is below:
 https://public.tableau.com/views/Preventivevisitcostsworkbook/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Data Sources ##
