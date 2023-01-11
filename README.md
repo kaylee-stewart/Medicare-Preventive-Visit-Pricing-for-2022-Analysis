@@ -8,7 +8,7 @@ I began by cleaning the data which included narrowing the data to just U.S. stat
 ![Screenshot](Screenshot.png)
 
 The link to the interactive visualization of state data in Tableau Public is below:
-https://public.tableau.com/app/profile/kaylee.stewart/viz/MedicarePreventiveVisitPricingforNewPatientsbyState/Dashboard1
+https://public.tableau.com/views/MedicarePreventiveVisitPricingforNewPatientsbyState/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Data Sources ##
 * Medicare preventive medicine visit pricing data for 2022 was retrieved from: https://data.cms.gov/provider-data/dataset/0330-b6e0
